@@ -1,0 +1,9 @@
+npm init -y <== untuk package.json
+npm install mysql2 <== untuk package-lock.json
+npm start    <=== untuk jalankan
+
+npm -v : itu untuk cek versi node jsnya (cuma cek node.jsnya uda didownload atau belum)
+
+npm init : kayaknya untuk yg json
+
+npm server.js dan npm start : untuk ngerun servernya (ku kurang tahu bedanya dimana)
